@@ -2,7 +2,7 @@
 EMOTION BASED MUSIC PLAYER - RUN GUIDE
 
 
-1.cd desktop\BCA projects\Emotion_Based_Music_Player
+
 
 
 1. Install Python 3.10 or above
