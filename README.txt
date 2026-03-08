@@ -1,10 +1,6 @@
 
 EMOTION BASED MUSIC PLAYER - RUN GUIDE
 
-
-
-
-
 1. Install Python 3.10 or above
 2. Open terminal / command prompt
 3. Navigate to project folder
