@@ -1,0 +1,8 @@
+
+opencv-python
+fer
+mtcnn
+tensorflow
+keras
+pygame
+numpy
